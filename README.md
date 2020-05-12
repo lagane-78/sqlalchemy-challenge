@@ -81,6 +81,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 * `/api/v1.0/precipitation`
 
   * Convert the query results to a dictionary using `date` as the key and `prcp` as the value.
+  
 
   * Return the JSON representation of your dictionary.
 
